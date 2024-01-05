@@ -49,6 +49,6 @@ A: The primary focus is coding, but related activities like learning, reading do
 Q: Can I start the challenge at any time?
 A: Absolutely! The challenge is flexible, and you can start at any time. What matters most is your commitment to coding consistently for 100 days.
 
-If your question isn't answered there, feel free to open an issue.
+If your question isn't answered here, feel free to open an issue.
 
 Thank you for following along with my coding journey! Happy coding!
