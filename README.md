@@ -28,7 +28,7 @@ git clone https://github.com/rahulgulati012/100DaysOfCode.git
 
 ## Connect with Me
 
-- **Twitter:** [Your Twitter Handle](https://twitter.com/your-twitter-handle)
+- **Twitter:** [TheRahulGulati](https://twitter.com/TheRahulGulati)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
 - **Blog/Website:** [Your Blog/Website](https://www.yourwebsite.com)
 
