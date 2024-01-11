@@ -1,0 +1,127 @@
+/* Reset some default styles */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'GT Super', sans-serif;
+}
+
+/* Header styles */
+header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 1rem;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Hero section styles */
+.hero {
+    text-align: center;
+    padding: 100px 0;
+    background-color: #ecf0f1;
+    background-image: url(https://img.freepik.com/free-vector/binary-code-pattern-blue-background_53876-116182.jpg?w=996&t=st=1704726222~exp=1704726822~hmac=9486cfcee47923e3593db080c0b0c251893e62936c5311d8962111406f577fa7);
+    background-size: cover;
+    background-position: center
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 40px;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Features section styles */
+.features {
+    display: flex;
+    justify-content: space-around;
+    padding: 80px 0;
+}
+
+.feature-box {
+    text-align: center;
+    margin-left: 120px;
+    margin-right: 80px;
+}
+
+.feature-box h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+.feature-box p {
+    color: #555;
+}
+/* Reach out Form */
+#reach-form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 8px;
+}
+
+input,
+select,
+textarea {
+    margin-bottom: 16px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #3498db;
+    color: #fff;
+}
